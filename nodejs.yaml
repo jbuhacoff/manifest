@@ -1,0 +1,12 @@
+commitlint-config:
+  url: 'git@github.com:jbuhacoff/commitlint-config.git'
+  ref: master
+  vcs: git
+commitlint-config-type-enum:
+  url: 'git@github.com:jbuhacoff/commitlint-config-type-enum.git'
+  ref: master
+  vcs: git
+manifest-js:
+  url: 'git@github.com:jbuhacoff/manifest-js.git'
+  ref: master
+  vcs: git
