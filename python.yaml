@@ -1,0 +1,4 @@
+python-dataformat:
+  url: 'https://github.com/jbuhacoff/python-dataformat.git'
+  ref: master
+  vcs: git
