@@ -1,0 +1,40 @@
+misc/awesome-workflow-engines:
+  url: 'https://github.com/jbuhacoff/awesome-workflow-engines.git'
+  ref: master+cromwell
+  vcs: git
+js/misc/commitlint-config:
+  url: 'https://github.com/jbuhacoff/commitlint-config.git'
+  ref: master
+  vcs: git
+js/misc/commitlint-config-type-enum:
+  url: 'https://github.com/jbuhacoff/commitlint-config-type-enum.git'
+  ref: master
+  vcs: git
+js/util/manifest-js:
+  url: 'https://github.com/jbuhacoff/manifest-js.git'
+  ref: master
+  vcs: git
+js/lib/input:
+  url: 'https://github.com/jbuhacoff/input.js.git'
+  ref: master
+  vcs: git
+js/lib/number:
+  url: 'https://github.com/jbuhacoff/number.js.git'
+  ref: master
+  vcs: git
+java/util/jrun:
+  url: 'https://github.com/jbuhacoff/java-jrun.git'
+  ref: master
+  vcs: git
+kotlin/util/krun:
+  url: 'https://github.com/jbuhacoff/kotlin-krun.git'
+  ref: master
+  vcs: git
+java/util/STSTv4:
+  url: 'https://github.com/jbuhacoff/STSTv4.git'
+  ref: master
+  vcs: git
+python/util/dataformat:
+  url: 'https://github.com/jbuhacoff/python-dataformat.git'
+  ref: master
+  vcs: git
