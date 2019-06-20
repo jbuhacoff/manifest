@@ -1,7 +1,3 @@
-misc/awesome-workflow-engines:
-  url: 'https://github.com/jbuhacoff/awesome-workflow-engines.git'
-  ref: master+cromwell
-  vcs: git
 js/misc/commitlint-config:
   url: 'https://github.com/jbuhacoff/commitlint-config.git'
   ref: master
