@@ -1,0 +1,8 @@
+java-jrun:
+  url: 'https://github.com/jbuhacoff/java-jrun.git'
+  ref: master
+  vcs: git
+java/util/STSTv4:
+  url: 'https://github.com/jbuhacoff/STSTv4.git'
+  ref: master
+  vcs: git

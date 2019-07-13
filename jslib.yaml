@@ -1,0 +1,8 @@
+input-js:
+  url: 'git@github.com:jbuhacoff/input.js.git'
+  ref: master
+  vcs: git
+number-js:
+  url: 'git@github.com:jbuhacoff/number.js.git'
+  ref: master
+  vcs: git

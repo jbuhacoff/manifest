@@ -1,0 +1,4 @@
+kotlin-krun:
+  url: 'https://github.com/jbuhacoff/kotlin-krun.git'
+  ref: master
+  vcs: git
