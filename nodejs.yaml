@@ -6,7 +6,15 @@ commitlint-config-type-enum:
   url: 'git@github.com:jbuhacoff/commitlint-config-type-enum.git'
   ref: master
   vcs: git
-manifest-js:
-  url: 'git@github.com:jbuhacoff/manifest-js.git'
+nodejs-manifest-util:
+  url: 'git@github.com:jbuhacoff/nodejs-manifest-util.git'
+  ref: master
+  vcs: git
+nodejs-mybc-util:
+  url: 'git@github.com:jbuhacoff/nodejs-mybc-util.git'
+  ref: master
+  vcs: git
+nodejs-java-properties:
+  url: 'git@github.com:jbuhacoff/nodejs-java-properties.git'
   ref: master
   vcs: git
