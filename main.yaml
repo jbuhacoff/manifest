@@ -1,0 +1,16 @@
+js/misc/commitlint-config:
+  url: 'https://github.com/jbuhacoff/commitlint-config.git'
+  ref: master
+  vcs: git
+js/misc/commitlint-config-type-enum:
+  url: 'https://github.com/jbuhacoff/commitlint-config-type-enum.git'
+  ref: master
+  vcs: git
+js/util/nodejs-manifest-util:
+  url: 'https://github.com/jbuhacoff/nodejs-manifest-util.git'
+  ref: master
+  vcs: git
+js/util/nodejs-mybc-util:
+  url: 'https://github.com/jbuhacoff/nodejs-mybc-util.git'
+  ref: master
+  vcs: git
